@@ -4,7 +4,10 @@ Responsive UI with Flutter
 
 ## Screen Shots
 
-- Desktop
+### Desktop
+
   ![Desktop](./ScreenShots/desktop.png)
-- Mobile
+  
+### Mobile
+
   ![mobile](./ScreenShots/mobile.png)
